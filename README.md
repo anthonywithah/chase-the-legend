@@ -5,6 +5,8 @@
 
 Solo darts game
 
+"LET'S. PLAY. DARTS! Player to throw first"
+
 # How to play
 
 ?
