@@ -1,7 +1,10 @@
-# chase-the-legend
+# Chase The Legend
+
 Solo darts game
 
+# How to play
 
+?
 
 # Download, Print, Play
 
