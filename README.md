@@ -3,9 +3,9 @@ Solo darts game
 
 
 
-# Releases
+# Download, Print, Play
 
-Download the latest Release for all the documentation you need to play this game.
+Download the latest files from the Releases section for all the documentation you need to play this game.
 
 - **Chase The Legend poster**: 
 - **Chase The Legend Scoreboard**: Track all of your wins, also contains Quick Start Rules
@@ -44,6 +44,10 @@ Yes. As soon as a Player hits the correct number, they move directly onto the ne
 **5. Is commentating during a match in the style of a TV commentator a sign of madness?**
 
 No! Chase The Legend can be an exciting game, so have fun with it :)
+
+# Sharing
+
+To promote this Github and to make sure the latest files being used - when sharing this game, please do not share the files themselves, please share this Github instead: **github.com/anthonywithah/chase-the-legend**
 
 # Supporting Graphics
 
