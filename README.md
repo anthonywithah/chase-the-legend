@@ -1,6 +1,20 @@
 # chase-the-legend
 Solo darts game
 
+
+# Legend's Ranking
+
+Two websites were used to fairly decide the rank of each Legend;
+
+- **Upcoming Legends**: https://www.pdc.tv/order-of-merit/pdc-order-merit
+- **All Time Legends**: https://news.williamhill.com/darts/ten-greatest-darts-players-of-all-time
+
+The resources for this game will be updated periodically when ranks change.
+
+# History
+
+I first created this game when I was a kid sometime in the early 1990's. In those days I wrote the Legend's down on scraps of paper, with the great John Lowe being the top guy. Fast forward a few decades later, a new dartboard and many hours of Photoshop'in - I recreated this game here. Firstly to learn to throw again after a lengthy break and secondly to share this game with the community for others to enjoy.
+
 # FAQ
 
 **1. How many Rounds are there?**
@@ -22,3 +36,18 @@ Yes. As soon as a Player hits the correct number, they move directly onto the ne
 **5. Is commentating during a match in the style of a TV commentator a sign of madness?**
 
 No! Chase The Legend can be an exciting game, so have fun with it :)
+
+# Supporting Graphics
+
+Thank you to the following free graphic resources for making my life easier;
+- **Logo source**: vecteezy.com/vector-art/7681089-esports-logo-template-with-trophy-for-gaming-team-or-tournament
+- **Font**: dafont.com/strongarm.font
+
+# Pathway to Open Source
+
+I would love to make this project fully Open Source one day. So once this project has been fully developed with enough community feedback, it will be released as Open Source, with all supporting files and documentation.
+
+
+
+
+
