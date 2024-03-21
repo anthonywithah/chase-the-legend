@@ -7,8 +7,8 @@ Solo darts game
 
 Download the latest files from the **Releases** section for all the documentation you need to play this game.
 
-- **Chase The Legend poster**: 
-- **Chase The Legend Scoreboard**: Track all of your wins, also contains Quick Start Rules
+- **Chase The Legend poster**: Print out this full colour guide and look your opponent in the eye as you sore to victory.
+- **Chase The Legend Scoreboard**: Track all of your wins, also contains Quick Start Rules.
 
 # Legend's Ranking
 
