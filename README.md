@@ -5,20 +5,20 @@ Solo darts game
 
 **How many rounds are there?**
 
-The number of rounds depends on the legend. Eg. Legend 1 = 20 rounds..... Etc
+The number of Rounds depends on the Legend's level, eg. Legend #1 = 20 Rounds, Legend #2 = 19 Rounds, Legend #3 = 18 Rounds, etc.
 
-**Does the Legend score during a Bonus Streak?**
+**Does a Legend score during a Bonus Streak?**
 
-No. The legend scoring freezes during a players streak.
+No. The Legend's scoring freezes during a Players streak.
 
-**What happens if a player misses with all 3 darts in a round?**
+**What happens if a Player misses with all 3 darts in a Round?**
 
-The match continues to the next round where the legend automatically progresses to their next number and the player re-attempts their current number.
+The match continues to the next Round where the Legend automatically progresses to their next number and the Player re-attempts their current number.
 
 **Can a Player hit more than one number per Round?**
 
 Yes. As soon as a Player hits the correct number, they move directly onto the next number with their next dart.
 
-**Is commentating during a match in the style of  a TV commentator a sign of madness?**
+**Is commentating during a match in the style of a TV commentator a sign of madness?**
 
-No! Chase The Legend can be an exciting game, so have fun with it.
+No! Chase The Legend can be an exciting game, so have fun with it :)
