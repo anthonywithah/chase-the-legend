@@ -5,7 +5,7 @@ Solo darts game
 
 # Download, Print, Play
 
-Download the latest files from the Releases section for all the documentation you need to play this game.
+Download the latest files from the **Releases** section for all the documentation you need to play this game.
 
 - **Chase The Legend poster**: 
 - **Chase The Legend Scoreboard**: Track all of your wins, also contains Quick Start Rules
@@ -47,7 +47,7 @@ No! Chase The Legend can be an exciting game, so have fun with it :)
 
 # Sharing
 
-To promote this Github and to make sure the latest files being used - when sharing this game, please do not share the files themselves, please share this Github instead: **github.com/anthonywithah/chase-the-legend**
+To promote this Github and to make sure the latest files are in use - when sharing this game, please do not share the files themselves, please share the link to this Github instead: **github.com/anthonywithah/chase-the-legend**
 
 # Supporting Graphics
 
