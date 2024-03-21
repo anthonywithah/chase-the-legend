@@ -3,7 +3,7 @@ Solo darts game
 
 # FAQ
 
-**1. How many rounds are there?**
+**1. How many Rounds are there?**
 
 The number of Rounds depends on the Legend's level, eg. Legend #1 = 20 Rounds, Legend #2 = 19 Rounds, Legend #3 = 18 Rounds, etc.
 
