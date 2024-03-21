@@ -2,6 +2,14 @@
 Solo darts game
 
 
+
+# Releases
+
+Download the latest Release for all the documentation you need to play this game.
+
+- **Chase The Legend poster**: 
+- **Chase The Legend Scoreboard**: Track all of your wins, also contains Quick Start Rules
+
 # Legend's Ranking
 
 Two websites were used to fairly decide the rank of each Legend;
