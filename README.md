@@ -3,11 +3,37 @@
 
 # Chase The Legend
 
-Solo darts game
+**Based on Around The Clock, Chase The Legend is a solo competitive darts game that is a fun and exciting way to practice darts.**
 
 # How to play
 
-"LET'S. PLAY. DARTS! Player to throw first"
+Starting with the first match (Legend #1), the Player must chase a Legend around the dartboard in numerical order using 3 darts per Round. First one to 20 wins.
+
+In each match the Player must begin with number 1 on the dartboard. The Legend will start on their corresponding number. Once the Player has successfully hit the correct number, the Player progresses to the next number on the dartboard. The Legend automatically moves up one number per Round.
+
+Battle each Legend in order and only progress to the next match once a Legend has been beaten.
+
+### Bonus Streak
+
+Earn bonus throws each time the Player hits 3 numbers in a row (in a Round). Continue the Streak until the Player misses the next required number. When the Bonus Streak is over - Reset and start the next Round. Bonus Streak’s are essential when playing higher ranked Legend’s.
+
+### Winning
+The Player wins a match by either hitting 20 before or in the same Round as the Legend. There are no draws in Chase The Legend. If the Legend reaches 20 first and the Player cannot hit 20 in the same Round, the Player has lost and will need to replay that Legend to progress to the next match.
+
+### Levels
+
+**Rookie**: Hit Singles, Doubles (Bonus Skip 2 numbers) or Trebles (Bonus Skip 3 numbers).
+**Amateur**: Hit Singles, Doubles or Trebles.
+**Pro**: Hit Doubles or Trebles only.
+**Superhero**: Hit Trebles only.
+**God mode**: Blind folded.
+
+### TIP
+
+Keep a mental note of the score throughout a match by always stating the Players score first,
+eg. Legend #6, end of Round 1, Player misses 1 with all 3 darts - the current score is: 1:6
+
+**"LET'S. PLAY. DARTS! Player to throw first"**
 
 # Download, Print, Play
 
