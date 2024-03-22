@@ -5,11 +5,9 @@
 
 Solo darts game
 
-"LET'S. PLAY. DARTS! Player to throw first"
-
 # How to play
 
-?
+"LET'S. PLAY. DARTS! Player to throw first"
 
 # Download, Print, Play
 
@@ -57,11 +55,12 @@ No! Chase The Legend can be an exciting game, so have fun with it :)
 
 To promote this Github and to make sure the latest files are in use - when sharing this game, please do not share the files themselves, please share the link to this Github instead: **github.com/anthonywithah/chase-the-legend**
 
-# Supporting Graphics
+# Supporting Media
 
-Thank you to the following free graphic resources for making my life easier;
+Thank you to the following free graphic and media resources for making my life easier;
 - **Logo source**: vecteezy.com/vector-art/7681089-esports-logo-template-with-trophy-for-gaming-team-or-tournament
 - **Font**: dafont.com/strongarm.font
+- **Font**: fontawesome.com
 
 # Pathway to Open Source
 
