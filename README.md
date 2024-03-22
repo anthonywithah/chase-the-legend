@@ -22,16 +22,16 @@ The Player wins a match by either hitting 20 before or in the same Round as the 
 
 ### Levels
 
-**Rookie**: Hit Singles, Doubles (Bonus Skip 2 numbers) or Trebles (Bonus Skip 3 numbers).
-**Amateur**: Hit Singles, Doubles or Trebles.
-**Pro**: Hit Doubles or Trebles only.
-**Superhero**: Hit Trebles only.
-**God mode**: Blind folded.
+- **Rookie**: Hit Singles, Doubles (Bonus Skip 2 numbers) or Trebles (Bonus Skip 3 numbers).
+- **Amateur**: Hit Singles, Doubles or Trebles.
+- **Pro**: Hit Doubles or Trebles only.
+- **Superhero**: Hit Trebles only.
+- **God mode**: Blind folded.
 
 ### Tip
 
 Keep a mental note of the score throughout a match by always stating the Players score first,
-eg. Legend #6, end of Round 1, Player misses 1 with all 3 darts - the current score is: 1:6
+eg. Legend #6, end of Round 1, Player misses 1 with all 3 darts - the current score is: **1:6**
 
 # Download, Print, Play
 
