@@ -28,7 +28,7 @@ The Player wins a match by either hitting 20 before or in the same Round as the 
 **Superhero**: Hit Trebles only.
 **God mode**: Blind folded.
 
-### TIP
+### Tip
 
 Keep a mental note of the score throughout a match by always stating the Players score first,
 eg. Legend #6, end of Round 1, Player misses 1 with all 3 darts - the current score is: 1:6
