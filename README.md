@@ -33,8 +33,6 @@ The Player wins a match by either hitting 20 before or in the same Round as the 
 Keep a mental note of the score throughout a match by always stating the Players score first,
 eg. Legend #6, end of Round 1, Player misses 1 with all 3 darts - the current score is: 1:6
 
-**"LET'S. PLAY. DARTS! Player to throw first"**
-
 # Download, Print, Play
 
 Download the latest files from the **Releases** section for all the documentation you need to play this game.
@@ -57,23 +55,23 @@ I first created this game when I was a kid sometime in the early 1990's. In thos
 
 # FAQ
 
-**1. How many Rounds are there?**
+### 1. How many Rounds are there?
 
 The number of Rounds depends on the Legend's level, eg. Legend #1 = 20 Rounds, Legend #2 = 19 Rounds, Legend #3 = 18 Rounds, etc.
 
-**2. Can a Legend score during a Bonus Streak?**
+### 2. Can a Legend score during a Bonus Streak?
 
 No. The Legend's scoring freezes during a Players streak.
 
-**3. What happens if a Player misses with all 3 darts in a Round?**
+### 3. What happens if a Player misses with all 3 darts in a Round?
 
 The match continues to the next Round where the Legend automatically progresses to their next number and the Player re-attempts their current number.
 
-**4. Can a Player hit more than one number per Round?**
+### 4. Can a Player hit more than one number per Round?
 
 Yes. As soon as a Player hits the correct number, they move directly onto the next number with their next dart.
 
-**5. Is commentating during a match in the style of a TV commentator a sign of madness?**
+### 5. Is commentating during a match in the style of a TV commentator a sign of madness?
 
 No! Chase The Legend can be an exciting game, so have fun with it :)
 
@@ -92,7 +90,4 @@ Thank you to the following free graphic and media resources for making my life e
 
 I would love to make this project fully Open Source one day. So once this project has been fully developed with enough community feedback, it will be released as Open Source, with all supporting files and documentation.
 
-
-
-
-
+### "LET'S. PLAY. DARTS! Player to throw first"
