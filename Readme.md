@@ -90,4 +90,4 @@ Thank you to the following free graphic and media resources for making my life e
 
 I would love to make this project fully Open Source one day. So once this project has been fully developed with enough community feedback, it will be released as Open Source, with all supporting files and documentation.
 
-### "LET'S. PLAY. DARTS! Player to throw first"
+### "LET'S. PLAY. DARTS! Player to throw first."
