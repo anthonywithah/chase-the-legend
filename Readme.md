@@ -1,24 +1,27 @@
 
 
 
-# Chase The Legend
+# CHASE THE LEGEND
 
-**Based on Around The Clock, Chase The Legend is a solo competitive darts game that is a fun and exciting way to practice darts.**
+**Based on the classic darts game Around The Clock, Chase The Legend is a solo competitive darts game that is a fun and exciting way to practice darts.**
 
-# How to play
+## How to play
 
-Starting with the first match (Legend #1), the Player must chase a Legend around the dartboard in numerical order using 3 darts per Round. First one to 20 wins.
+### Match Number / Legend Skill Level
 
-In each match the Player must begin with number 1 on the dartboard. The Legend will start on their corresponding number. Once the Player has successfully hit the correct number, the Player progresses to the next number on the dartboard. The Legend automatically moves up one number per Round.
+The Player begins the Tournament playing against Legend #1 and continues to battle each Legend in order to become Chase The Legend Champion. Each Match is assigned a darts Legend, with each of the Match numbers corresponding to the Legend’s Skill Level. The higher the Match number, the higher the Skill Level. In each Match the Player must begin with number 1 on the dartboard. The Legend will start on their corresponding Skill Level number. The Player only progresses to the next Match once a Legend has been defeated.
 
-Battle each Legend in order and only progress to the next match once a Legend has been beaten.
+### Rounds
+A Match is made up of a series of standard 3 dart Rounds, where the Player chases the Legend around the dartboard in numerical order. The number of Rounds played in each Match depends on the Legend’s Skill Level: eg. Legend #9 = 12 Round Match. During a Round, once the Player successfully hits the correct number, the Player immediately progresses to the next number on the dartboard. Whereas the Legend automatically moves up one number per Round.
 
 ### Bonus Streak
+Earn bonus throws each time the Player hits 3 numbers in a row (in a Round). Continue the Streak until the Player misses the next required number. When the Bonus Streak is over - Reset and start the next Round. Bonus Streak’s are essential when playing higher ranked Legend’s. Add your best Streak per Match to the Scoreboard.
 
-Earn bonus throws each time the Player hits 3 numbers in a row (in a Round). Continue the Streak until the Player misses the next required number. When the Bonus Streak is over - Reset and start the next Round. Bonus Streak’s are essential when playing higher ranked Legend’s. Add your best Streak per game to the Scoreboard.
+### Defeated
+If the Player loses 3 Matches in a row, the Player is defeated and is out of the tournament. Track the number of Matches played per Legend using the stacked tick boxes. When a Player is defeated, add a cross to the Legend that defeated the Player in the Defeated column. For the purpose of the final Legend’s Total score - all remaining Legend’s score the maximum 20.
 
 ### Winning
-The Player wins a match by either hitting 20 before or in the same Round as the Legend. There are no draws in Chase The Legend. If the Legend reaches 20 first and the Player cannot hit 20 in the same Round, the Player has lost and will need to replay that Legend to progress to the next match.
+The Player wins a match by either hitting 20 before or in the same Round as the Legend. There are no draws in Chase The Legend. If the Legend reaches 20 first and the Player cannot hit 20 in the same Round, the Player is defeated and will need to replay that Legend to progress to the next Match. The Player can only be crowned Chase The Legend Champion upon defeating all Legend’s in a Tournament.
 
 ### Levels
 
@@ -30,8 +33,7 @@ The Player wins a match by either hitting 20 before or in the same Round as the 
 
 ### Tip
 
-Keep a mental note of the score throughout a match by always stating the Players score first,
-eg. Legend #6, end of Round 1 - Player misses 1 with all 3 darts, score would be:  **1:6**
+Keep a mental note of the score throughout a Match by always stating the Players score first: eg. Legend #6 Match, end of Round 1 - Player misses 1 with all 3 darts, score would be: **1:6**
 
 # Download, Print, Play
 
