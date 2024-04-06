@@ -5,7 +5,7 @@
 
 **Based on the classic darts game Around The Clock, Chase The Legend is a solo competitive darts game that is a fun and exciting way to practice darts.**
 
-## How to play
+## How To Play
 
 ### Match Number / Legend Skill Level
 
@@ -41,6 +41,7 @@ Download the latest files from the **Releases** section for all the documentatio
 
 - **Chase The Legend poster**: Print this full colour guide and look your opponent in the eye as you sore to victory.
 - **Chase The Legend Scoreboard**: Print and track all of your wins, also contains Quick Start Rules.
+- **Chase The Legend Tracker**: ???
 
 # Legend's Ranking
 
@@ -81,7 +82,14 @@ No! Chase The Legend can be an exciting game, so have fun with it :)
 
 To promote this Github and to make sure the latest files are in use - when sharing this game, please do not share the files themselves, please share the link to this Github instead: **github.com/anthonywithah/chase-the-legend**
 
-# Supporting Media
+# Made With
+
+- **Chase The Legend Scoreboard**: Microsoft Word
+- **Chase The Legend Poster**: Adobe Photoshop
+- **Chase The Legend Tracker**: Microsoft Excel
+- **Chase The Legend Logo**: Adobe Illustrator and PhotoShop
+
+# Graphic Sources
 
 Thank you to the following free graphic and media resources for making my life easier;
 - **Logo source**: vecteezy.com/vector-art/7681089-esports-logo-template-with-trophy-for-gaming-team-or-tournament
