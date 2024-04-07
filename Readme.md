@@ -1,4 +1,4 @@
-![](ctl-logo-SML.png)
+![](assets/ctl-logo-SML.png)
 
 
 # CHASE THE LEGEND
