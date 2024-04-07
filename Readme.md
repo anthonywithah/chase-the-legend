@@ -9,6 +9,8 @@
 
 **Based on the classic darts game Around The Clock, Chase The Legend is a solo competitive darts game that is a fun and exciting way to practice darts.**
 
+![](assets/ctl-promo.jpg)
+
 ## How To Play
 
 ### Match Number / Legend Skill Level
@@ -38,8 +40,6 @@ The Player wins a match by either hitting 20 before or in the same Round as the 
 ### Tip
 
 Keep a mental note of the score throughout a Match by always stating the Players score first: eg. Legend #6 Match, end of Round 1 - Player misses 1 with all 3 darts, score would be: **1:6**
-
-![](assets/ctl-promo.jpg)
 
 # Download, Print, Play
 
