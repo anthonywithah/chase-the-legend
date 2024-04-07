@@ -47,7 +47,7 @@ Download the latest files from the **Releases** section for all the documentatio
 
 - **Chase The Legend poster**: Print this full colour guide and look your opponent in the eye as you sore to victory.
 - **Chase The Legend Scoreboard**: Print and track all of your wins, also contains Quick Start Rules.
-- **Chase The Legend Tracker**: ???
+- **Chase The Legend Tracker**: Transfer Tournament data from the Scoreboard to this tracking spreadsheet.
 
 # Legend's Ranking
 
@@ -106,6 +106,8 @@ To promote this Github and to make sure the latest files are in use - when shari
 
 # Pathway to Open Source
 
-I would love to make this project Open Source one day. So once this project has been fully developed with enough community feedback, it will be released as Open Source.
+I would love to make this project Open Source one day. So after this project has been fully developed with enough community feedback, it will be released as Open Source.
+
+Chase The Legend is a free to use game download, designed by me (Anthony) - March 2024.
 
 ### "LET'S. PLAY. DARTS! Player to throw first."
