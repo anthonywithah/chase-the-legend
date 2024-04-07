@@ -18,7 +18,7 @@ A Match is made up of a series of standard 3 dart Rounds, where the Player chase
 Earn bonus throws each time the Player hits 3 numbers in a row (in a Round). Continue the Streak until the Player misses the next required number. When the Bonus Streak is over - Reset and start the next Round. Bonus Streak’s are essential when playing higher ranked Legend’s. Add your best Streak per Match to the Scoreboard.
 
 ### Defeated
-If the Player loses 3 Matches in a row, the Player is defeated and is out of the tournament. Track the number of Matches played per Legend using the stacked tick boxes. When a Player is defeated, add a cross to the Legend that defeated the Player in the Defeated column. For the purpose of the final Legend’s Total score - all remaining Legend’s score the maximum 20.
+If the Player loses 3 Matches in a row, the Player is defeated and is out of the tournament. Track the number of Matches played per Legend using the Stacked Tick Boxes. When a Player is defeated, add a cross to the Legend that defeated the Player in the Defeated column. For the purpose of the final Legend’s Total score - all remaining Legend’s score the maximum 20.
 
 ### Winning
 The Player wins a match by either hitting 20 before or in the same Round as the Legend. There are no draws in Chase The Legend. If the Legend reaches 20 first and the Player cannot hit 20 in the same Round, the Player is defeated and will need to replay that Legend to progress to the next Match. The Player can only be crowned Chase The Legend Champion upon defeating all Legend’s in a Tournament.
@@ -52,9 +52,11 @@ Two websites were used to fairly decide the rank of each Legend;
 
 The resources for this game will be updated periodically when ranks change.
 
+:dart: **v.0.1 Ranking date**: March 2024
+
 # History
 
-I first created this game when I was a kid sometime in the early 1990's. In those days I wrote the Legend's down on scraps of paper, with the great John Lowe being the top guy. Fast forward a few decades later, a new dartboard and many hours of Photoshop'in - I recreated this game here. Firstly to learn to throw again after a lengthy break and secondly to share this game with the community for others to enjoy.
+I first created this game when I was a kid sometime in the late 1980's. In those days I wrote the Legend's down on scraps of paper, with the great John Lowe being the top guy. Fast forward a few decades later, a new dartboard and many hours of Photoshop'in - I recreated this game here. Firstly to learn to throw again after a lengthy break and secondly to share this game with the community for others to enjoy.
 
 # FAQ
 
@@ -78,10 +80,6 @@ Yes. As soon as a Player hits the correct number, they move directly onto the ne
 
 No! Chase The Legend can be an exciting game, so have fun with it :)
 
-# Sharing
-
-To promote this Github and to make sure the latest files are in use - when sharing this game, please do not share the files themselves, please share the link to this Github instead: **github.com/anthonywithah/chase-the-legend**
-
 # Made With
 
 - **Chase The Legend Scoreboard**: Microsoft Word
@@ -96,8 +94,12 @@ Thank you to the following free graphic and media resources for making my life e
 - **Font**: dafont.com/strongarm.font
 - **Font**: fontawesome.com
 
+# Sharing
+
+To promote this Github and to make sure the latest files are in use - when sharing this game, please do not share the files themselves, please share the link to this Github instead: **github.com/anthonywithah/chase-the-legend**
+
 # Pathway to Open Source
 
-I would love to make this project fully Open Source one day. So once this project has been fully developed with enough community feedback, it will be released as Open Source, with all supporting files and documentation.
+I would love to make this project Open Source one day. So once this project has been fully developed with enough community feedback, it will be released as Open Source.
 
 ### "LET'S. PLAY. DARTS! Player to throw first."
