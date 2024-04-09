@@ -102,7 +102,7 @@ Thank you to the following free graphic and media resources for making my life e
 
 # Sharing
 
-To promote this Github and to make sure the latest files are in use - when sharing this game, please do not share the files themselves, please share the link to this Github instead: **github.com/anthonywithah/chase-the-legend**
+For full community transparency and to help promote this Github, making sure the latest files are in use - When sharing this game, please do not share the files themselves or duplicate this Readme, instead please share the link to this Github: **github.com/anthonywithah/chase-the-legend**
 
 # Pathway to Open Source
 
