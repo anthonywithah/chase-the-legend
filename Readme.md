@@ -43,7 +43,7 @@ Keep a mental note of the score throughout a Match by always stating the Players
 
 # Download, Print, Play
 
-Download the latest files from the **Releases** section for all the documentation you need to play this game.
+Download the latest files from the [**Releases**](https://github.com/anthonywithah/chase-the-legend/releases) section for all the documentation you need to play this game.
 
 - **Chase The Legend poster**: Print this full colour guide and look your opponent in the eye as you sore to victory.
 - **Chase The Legend Scoreboard**: Print and track all of your wins, also contains Quick Start Rules.
