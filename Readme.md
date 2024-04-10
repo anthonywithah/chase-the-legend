@@ -100,6 +100,11 @@ Thank you to the following free graphic and media resources for making my life e
 - **Font**: dafont.com/strongarm.font
 - **Font**: fontawesome.com
 
+# Issues, Ideas and Feedback
+
+- [**Issues**](https://github.com/anthonywithah/chase-the-legend/issues): Bugs, errors, compatibility and typos.
+- [**Discussions**](https://github.com/anthonywithah/chase-the-legend/discussions): Feedback, improvements and ideas.
+
 # Sharing
 
 For full community transparency and to help promote this Github, making sure the latest files are in use - When sharing this game, please do not share the files themselves or duplicate this Readme, instead please share the link to this Github: **github.com/anthonywithah/chase-the-legend**
