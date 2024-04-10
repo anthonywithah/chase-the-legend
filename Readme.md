@@ -49,6 +49,8 @@ Download the latest files from the [**Releases**](https://github.com/anthonywith
 - **Chase The Legend Scoreboard**: Print and track all of your wins, also contains Quick Start Rules.
 - **Chase The Legend Tracker**: Transfer Tournament data from the Scoreboard to this tracking spreadsheet.
 
+![](assets/ctl-tracker-eg.jpg)
+
 # Legend's Ranking
 
 Two websites were used to fairly decide the rank of each Legend;
