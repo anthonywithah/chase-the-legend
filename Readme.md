@@ -1,6 +1,6 @@
 > ### :dart: BETA: Desperately seeking testers and feedback - Please add your [Issues](https://github.com/anthonywithah/chase-the-legend/issues), [Ideas](https://github.com/anthonywithah/chase-the-legend/discussions) and [Feedback](https://github.com/anthonywithah/chase-the-legend/discussions) to help improve this game for everyone. Thank you.
 
-<br><br>
+<br>
   
 ![](assets/ctl-logo-MINI.jpg)
 
