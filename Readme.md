@@ -117,4 +117,4 @@ I would love to make this project Open Source one day. So after this project has
 
 Chase The Legend is a free to use game download, designed by me (Anthony) - March 2024.
 
-### "LET'S. PLAY. DARTS! Player to throw first."
+> ### :dart: "LET'S. PLAY. DARTS! Player to throw first."
