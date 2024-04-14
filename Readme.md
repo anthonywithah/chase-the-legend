@@ -60,13 +60,13 @@ Two websites were used to fairly decide the rank of each Legend;
 - **Upcoming Legends**: https://www.pdc.tv/order-of-merit/pdc-order-merit
 - **All Time Legends**: https://news.williamhill.com/darts/ten-greatest-darts-players-of-all-time
 
-The resources for this game will be updated periodically when ranks change.
+The resources for this game will be updated periodically to adjust for rank changes.
 
 :dart: **v.0.1 Ranking date**: March 2024
 
 # History
 
-I first created this game when I was a kid sometime in the late 1980's. In those days I wrote the Legend's down on scraps of paper, with the great John Lowe being the top guy. Fast forward a few decades later, a new dartboard and many hours of Photoshop'in - I recreated this game here. Firstly to learn to throw again after a lengthy break and secondly to share this game with the community for others to enjoy.
+I first created this game when I was a kid sometime in the late 1980's. In those days I wrote the Legend's down on scraps of paper, with the great John Lowe being the top guy. Fast forward a few decades later, a new dartboard and too many hours of Photoshop'in - I recreated this game here. Firstly to learn to throw again after a lengthy break and secondly to share this game with the community for others to enjoy.
 
 # FAQ
 
