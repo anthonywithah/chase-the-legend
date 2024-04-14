@@ -49,7 +49,7 @@ Download the latest files from the [**Releases**](https://github.com/anthonywith
 
 - **Chase The Legend Poster**: Print this full colour guide and look your opponent in the eye as you sore to victory.
 - **Chase The Legend Scoreboard**: Print and track all of your wins, also contains Quick Start Rules.
-- **Chase The Legend Tracker**: Transfer your Scoreboard data to this spreadsheet, to track all of your Tournaments.
+- **Chase The Legend Tracker**: Transfer your Scoreboard data to this spreadsheet, to keep track of all of your Tournaments.
 
 ![](assets/ctl-tracker-eg.jpg)
 
