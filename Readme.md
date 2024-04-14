@@ -102,10 +102,10 @@ Thank you to the following free graphic and media resources for making my life e
 - **Font**: dafont.com/strongarm.font
 - **Font**: fontawesome.com
 
-# Issues, Ideas and Feedback
+# Questions, Issues, Ideas and Feedback
 
-- [**Issues**](https://github.com/anthonywithah/chase-the-legend/issues): Bugs, errors, compatibility and typos.
-- [**Discussions**](https://github.com/anthonywithah/chase-the-legend/discussions): Feedback, improvements and ideas.
+- [**Issues**](https://github.com/anthonywithah/chase-the-legend/issues): Bugs, Errors, Compatibility and Typos.
+- [**Discussions**](https://github.com/anthonywithah/chase-the-legend/discussions): Questions, Feedback, Improvements and Ideas.
 
 # Sharing
 
