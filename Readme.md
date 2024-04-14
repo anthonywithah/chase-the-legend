@@ -102,7 +102,7 @@ No! Chase The Legend can be an exciting game, so have fun with it :)
 Thank you to the following free graphic and media resources for making my life easier;
 - **Logo source**: vecteezy.com/vector-art/7681089-esports-logo-template-with-trophy-for-gaming-team-or-tournament
 - **Logo font**: dafont.com/strongarm.font
-- **Speech font**: https://www.fontspace.com/blowhole-bb-font-f16753
+- **Speech font**: fontspace.com/blowhole-bb-font-f16753
 - **Icon font**: fontawesome.com
 
 # Questions, Issues, Ideas and Feedback
