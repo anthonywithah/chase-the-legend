@@ -108,7 +108,7 @@ Thank you to the following free graphic and media resources for making my life e
 - **Poster dartboard wire**: vecteezy.com/vector-art/18881920-dart-board-in-flat-style
 - **Poster flags**: wikipedia.org
 - **Scoreboard icons**: fontawesome.com
-- **Speech font**: fontspace.com/blowhole-bb-font-f16753
+- **Scoreboard speech font**: fontspace.com/blowhole-bb-font-f16753
 
 # Questions, Issues, Ideas and Feedback
 
