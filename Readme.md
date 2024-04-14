@@ -13,6 +13,8 @@
 
 ## How To Play
 
+> :bulb: **Don't forget to [Download](https://github.com/anthonywithah/chase-the-legend/releases) your Chase The Legend Scoreboard and Poster!**
+
 ### Match Number / Legend Skill Level
 
 The Player begins the Tournament playing against Legend #1 and continues to battle each Legend in order to become Chase The Legend Champion. Each Match is assigned a darts Legend, with each of the Match numbers corresponding to the Legend’s Skill Level. The higher the Match number, the higher the Skill Level. In each Match the Player must begin with number 1 on the dartboard. The Legend will start on their corresponding Skill Level number. The Player only progresses to the next Match once a Legend has been defeated.
