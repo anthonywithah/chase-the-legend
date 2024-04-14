@@ -1,4 +1,4 @@
-> ### :dart: BETA: Desperately seeking testers and feedback - Please add your [Issues](https://github.com/anthonywithah/chase-the-legend/issues), [Ideas](https://github.com/anthonywithah/chase-the-legend/discussions) and [Feedback](https://github.com/anthonywithah/chase-the-legend/discussions) to help improve this game for everyone. Thank you.
+> ### :dart: BETA: Desperately seeking testers and feedback - Please add your [Issues](https://github.com/anthonywithah/chase-the-legend/issues), [Ideas](https://github.com/anthonywithah/chase-the-legend/issues) and [Feedback](https://github.com/anthonywithah/chase-the-legend/discussions) to help improve this game for everyone. Thank you.
 
 <br>
   
@@ -112,8 +112,8 @@ Thank you to the following free graphic and media resources for making my life e
 
 # Questions, Issues, Ideas and Feedback
 
-- [**Issues**](https://github.com/anthonywithah/chase-the-legend/issues): Bugs, Errors, Compatibility and Typos.
-- [**Discussions**](https://github.com/anthonywithah/chase-the-legend/discussions): Questions, Feedback, Improvements and Ideas.
+- [**Issues**](https://github.com/anthonywithah/chase-the-legend/issues): Bugs, Errors, Typos, Improvements and Ideas.
+- [**Discussions**](https://github.com/anthonywithah/chase-the-legend/discussions): Questions and Feedback.
 
 # Sharing
 
