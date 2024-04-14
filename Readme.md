@@ -13,7 +13,7 @@
 
 ## How To Play
 
-> :bulb: **Don't forget to [Download](https://github.com/anthonywithah/chase-the-legend/releases) your Chase The Legend Scoreboard and Poster!**
+> :dart: **Don't forget to [Download](https://github.com/anthonywithah/chase-the-legend/releases) your Chase The Legend Scoreboard and Poster!**
 
 ### Match Number / Legend Skill Level
 
