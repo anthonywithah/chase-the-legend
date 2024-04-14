@@ -47,9 +47,9 @@ Keep a mental note of the score throughout a Match by always stating the Players
 
 Download the latest files from the [**Releases**](https://github.com/anthonywithah/chase-the-legend/releases) section for all the documentation you need to play this game.
 
-- **Chase The Legend poster**: Print this full colour guide and look your opponent in the eye as you sore to victory.
+- **Chase The Legend Poster**: Print this full colour guide and look your opponent in the eye as you sore to victory.
 - **Chase The Legend Scoreboard**: Print and track all of your wins, also contains Quick Start Rules.
-- **Chase The Legend Tracker**: Transfer Tournament data from the Scoreboard to this tracking spreadsheet.
+- **Chase The Legend Tracker**: Transfer your Scoreboard data to this spreadsheet, to track all of your Tournaments.
 
 ![](assets/ctl-tracker-eg.jpg)
 
@@ -107,8 +107,8 @@ Thank you to the following free graphic and media resources for making my life e
 - **Poster background**: pxfuel.com/en/desktop-wallpaper-pbcwm
 - **Poster dartboard wire**: vecteezy.com/vector-art/18881920-dart-board-in-flat-style
 - **Poster flags**: wikipedia.org
+- **Scoreboard icons**: fontawesome.com
 - **Speech font**: fontspace.com/blowhole-bb-font-f16753
-- **Icon font**: fontawesome.com
 
 # Questions, Issues, Ideas and Feedback
 
