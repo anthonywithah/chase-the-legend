@@ -99,9 +99,14 @@ No! Chase The Legend can be an exciting game, so have fun with it :)
 
 # Graphic Sources
 
-Thank you to the following free graphic and media resources for making my life easier;
+Thank you to the following free graphic and media resources for making my life easier (sources backed-up in ![docs](docs)).
 - **Logo source**: vecteezy.com/vector-art/7681089-esports-logo-template-with-trophy-for-gaming-team-or-tournament
 - **Logo font**: dafont.com/strongarm.font
+- **Logo dart**: game-icons.net/1x1/delapouite/dart.html
+- **Logo star**: iconmonstr.com/star-3-svg
+- **Poster background**: pxfuel.com/en/desktop-wallpaper-pbcwm
+- **Poster dartboard wire**: vecteezy.com/vector-art/18881920-dart-board-in-flat-style
+- **Poster flags**: wikipedia.org
 - **Speech font**: fontspace.com/blowhole-bb-font-f16753
 - **Icon font**: fontawesome.com
 
