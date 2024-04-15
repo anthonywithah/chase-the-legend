@@ -31,7 +31,7 @@ If the Player loses 3 Matches in a row, the Player is defeated and is out of the
 ### Winning
 The Player wins a match by either hitting 20 before or in the same Round as the Legend. There are no draws in Chase The Legend. If the Legend reaches 20 first and the Player cannot hit 20 in the same Round, the Player is defeated and will need to replay that Legend to progress to the next Match. The Player can only be crowned Chase The Legend Champion upon defeating all Legend’s in a Tournament.
 
-### Levels
+### Rank
 
 - **Rookie**: Hit Singles, Doubles (Bonus Skip 2 numbers) or Trebles (Bonus Skip 3 numbers).
 - **Amateur**: Hit Singles, Doubles or Trebles.
@@ -66,8 +66,8 @@ Two websites were used to fairly decide the rank of each Legend;
 
 The resources for this game will be updated periodically to adjust for rank changes.
 
-| Version       | Rank date     |
-| :-----------: |:-------------:|
+| Version       | Rank date   |
+| :-----------: | :---------: |
 | v.0.1         | Mar 2024    |
 | v.0.2         | Mar 2024    |
 
