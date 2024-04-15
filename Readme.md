@@ -2,7 +2,7 @@
 
 <br>
   
-![](assets/ctl-logo-MINI.jpg)
+![](assets/ctl-logo-MINI.png)
 
 
 # CHASE THE LEGEND
