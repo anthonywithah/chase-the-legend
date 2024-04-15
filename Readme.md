@@ -68,8 +68,8 @@ The resources for this game will be updated periodically to adjust for rank chan
 
 | Version       | Rank date     |
 | :-----------: |:-------------:|
-| v.0.1         | March 2024    |
-| v.0.2         | March 2024    |
+| v.0.1         | Mar 2024    |
+| v.0.2         | Mar 2024    |
 
 # History
 
