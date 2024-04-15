@@ -62,7 +62,10 @@ Two websites were used to fairly decide the rank of each Legend;
 
 The resources for this game will be updated periodically to adjust for rank changes.
 
-:dart: **v.0.1 Ranking date**: March 2024
+| Version       | Rank date     |
+| :-----------: |:-------------:|
+| v.0.1         | March 2024    |
+| v.0.2         | March 2024    |
 
 # History
 
